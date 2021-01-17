@@ -1,0 +1,43 @@
+#wrapper {
+	
+	width: 100%;
+	margin:0px;
+	margin-top:0px;
+	margin-bottom: 0px;
+	height: 748px;
+	background-color: orange;
+}
+
+#left {
+    float : top;
+    margin:0px;
+	margin-top:0px;
+	margin-bottom: 0px;
+	height: 748px;
+	width: 445.3px;
+	background-color: rgb(143, 235, 178);
+	color:white;
+	
+}
+
+#middleCol{
+background-color: white;
+width : 445.3px;
+margin-left:460px;
+text-align:center;
+height: 748px;
+color: green;
+font-size:30px;
+}
+
+#thirdCol{
+float : top;
+    margin:0px;
+	margin-top:0px;
+	margin-bottom: 0px;
+	height: 748px;
+	width:445.3px ;
+	background-color: rgb(56, 250, 56);
+	color:white;
+	text-align:middle;
+}

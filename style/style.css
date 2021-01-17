@@ -1,0 +1,59 @@
+#welcome{
+width: 1336px;
+height:50px;
+color :white;
+background-color:green;
+text-align:center; 
+
+}
+
+#wrapper{
+height: 778px;
+background-color: gold;
+width:1336px;
+}
+
+#firstCol {
+	
+	width: 445.3px;
+	margin:0px;
+	margin-top:0px;
+	margin-bottom: 0px;
+	height: 748px;
+	background-color: green;
+}
+
+#middleCol {
+	margin-top:0px;
+	margin-bottom:0px;
+	height: 748px;
+	width: 445.3px;
+	background-color:white;
+	color:green;
+	text-align:center;
+	font-size:28px;
+}
+
+#thirdCol{
+background-color: green;
+width :445.3px;
+margin-left:460px;
+text-align:center;
+height: 748px;
+color: reds;
+}
+
+#footer{
+text-align:center;
+height:14px;
+width:1336px;
+color:green;
+}
+
+a{text-decoration: none;
+  color:inherit;
+  width : 30px;
+  height : 15px;
+  
+
+}
